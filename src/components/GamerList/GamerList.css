@@ -1,0 +1,35 @@
+img{
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+  }
+  .section-cards{
+    margin-bottom: 25px;
+  }
+  .card{
+    padding: 15px;
+    margin: 25px;
+  }
+  .card-text-p{
+    color:#0b166d;
+    font-size: 15px;
+    margin-top: 0;
+  }
+  .critics{
+    padding-left: 0px;
+    padding-bottom:25px
+  }
+  
+  .critics-bars{
+    margin: 3px;
+    padding: 3px;
+    font-size: large;
+  }
+  iframe{
+    width: 70%;
+    padding: 25px;
+  }
+  
+  .text-video{
+      text-align: center;
+  }
